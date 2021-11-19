@@ -1,0 +1,96 @@
+/* Responsive styles
+================================================== */
+
+/* Large Devices, Wide Screens */
+@media (min-width : 1200px) {
+
+
+
+}
+
+@media (min-width: 992px)  and (max-width: 1199px) {
+
+	
+}
+
+/* Small Devices, Tablets */
+@media (min-width : 768px) and (max-width: 991px) {
+	
+}
+
+
+/* Small Devices Potrait */
+@media (max-width : 767px){
+ul.acc {
+    display: none;
+}
+
+ul.cs-social {
+    text-align: center;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #cc3333;
+}
+.navbar-default .navbar-toggle {
+    border-color: #cc3333;
+    border-radius: 0px!important;
+}	
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #cc3333;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover span.icon-bar {
+    background: #fff!important;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #cc3333;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: #000;
+    background-color: #FFE897;
+}
+h4.title {
+    font-size: 18px!important;
+    line-height: 25px;
+}
+
+.about p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+h3.title {
+    font-size: 20px;
+}
+
+ul.list {
+    margin-top: 15px;
+}
+
+
+ul.social-w li a {
+    margin: 2px;
+}
+
+footer {
+    background-size: inherit!important;
+}
+
+footer h3.title {
+    margin-top: 10px;
+}
+	.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{font-size:14px;}
+	ul.nav-tabs li a{font-size:14px;}
+}
+
+
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 479px) {
+   
+}
+
+
+/* Custom, iPhone Retina */ 
+@media (min-width : 320px) and (max-width: 478px)  {
+    	
+}

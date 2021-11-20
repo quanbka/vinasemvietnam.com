@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="">
 
@@ -447,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li>
             <a href="/livestream-2000-28-8-2021-di-xkld-nhat-ban-ban-tich-luy-duoc-bao-nhieu/"><img src="/wp-content/themes/atv247/thumbnail.php?src=https%3A%2F%2Fhoanglongcms.com%2Fwp-content%2Fuploads%2F2021%2F08%2Flivestream-so-5.jpg&amp;w=100&amp;h=92&amp;zc=1&amp;a=c" alt="LIVESTREAM 20:00 28/8/2021: ĐI XKLĐ NHẬT BẢN &#8211; BẠN TÍCH LŨY ĐƯỢC BAO NHIÊU?" title="LIVESTREAM 20:00 28/8/2021: ĐI XKLĐ NHẬT BẢN &#8211; BẠN TÍCH LŨY ĐƯỢC BAO NHIÊU?"/></a>
             <h4 class="tit-one"><a href="/livestream-2000-28-8-2021-di-xkld-nhat-ban-ban-tich-luy-duoc-bao-nhieu/">LIVESTREAM 20:00 28/8/2021: ĐI XKLĐ NHẬT BẢN &#8211; BẠN TÍCH LŨY ĐƯỢC BAO NHIÊU?</a></h4>
-            <p>LIVESTREAM 20:00 28/8/2021: ĐI XKLĐ NHẬT BẢN &#8211; BẠN TÍCH LŨY ĐƯỢC BAO NHIÊU? 🔰 Chúng ta sẽ...</p>
+            <p>LIVESTREAM 20:00 28/8/2021: ĐI XKLĐ NHẬT BẢN &#8211; BẠN TÍCH LŨY ĐƯỢC BAO NHIÊU? 🔰 Chúng ta sẽ...</p>
             <div class="clear"></div>
           </li>
                   <ul class="list">
@@ -546,7 +545,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div id="collapsefor5811" class="panel-collapse collapse" role="tabpanel" aria-labelledby="">
               <div class="panel-body">
-               Trong năm 2021, Hoàng Long CMS tiếp tục tuyển các đơn hàng Đài Loan MIỄN PHÍ XUẤT CẢNH, bay nhanh sau 1-2 tháng, tăng ca trên 40 giờ/tháng, đem lại nguồn thu nhập hấp dẫn cho người lao động. &gt;&gt; Xem thêm: Đài Loan điều chỉnh mức lương cơ bản tăng lên 24.000 Đài tệ/tháng &gt;&gt; Xem ngay: Lựa chọn Nhật...<br>
+               Trong năm 2021, Hoàng Long CMS tiếp tục tuyển các đơn hàng Đài Loan MIỄN PHÍ XUẤT CẢNH, bay nhanh sau 1-2 tháng, tăng ca trên 40 giờ/tháng, đem lại nguồn thu nhập hấp dẫn cho người lao động. &gt;&gt; Xem thêm: Đài Loan điều chỉnh mức lương cơ bản tăng lên 24.000 Đài tệ/tháng &gt;&gt; Xem ngay: Lựa chọn Nhật...<br>
                <a href="/mien-phi-xuat-canh-cho-100-lao-dong-lam-viec-tai-dai-loan-2021/">Xem thêm</a>
               </div>
             </div>
@@ -561,7 +560,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div id="collapsefor5772" class="panel-collapse collapse" role="tabpanel" aria-labelledby="">
               <div class="panel-body">
-               Với mục tiêu khôi phục dần mạng đường bay quốc tế một cách an toàn, đáp ứng nhu cầu đi lại của hành khách và góp phần tái phát triển nền kinh tế, du lịch, từ ngày 01/4/2021 đến 30/6/2021, Vietnam Airlines sẽ mở lại đường bay thường lệ tới 4 quốc gia, trong đó có Nhật Bản.  Cụ...<br>
+               Với mục tiêu khôi phục dần mạng đường bay quốc tế một cách an toàn, đáp ứng nhu cầu đi lại của hành khách và góp phần tái phát triển nền kinh tế, du lịch, từ ngày 01/4/2021 đến 30/6/2021, Vietnam Airlines sẽ mở lại đường bay thường lệ tới 4 quốc gia, trong đó có Nhật Bản.  Cụ...<br>
                <a href="/vietnam-airlines-mo-lai-duong-bay-thuong-le-viet-nam-nhat-ban-tu-03-04-2021/">Xem thêm</a>
               </div>
             </div>
